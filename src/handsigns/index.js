@@ -25,6 +25,8 @@ import {xSign} from './Xsign';
 import {ySign} from './Ysign';
 import {zSign} from './Zsign';
 
+import {FaSign} from './FaSign';
+
 
 
 const Handsigns = {
@@ -54,6 +56,7 @@ const Handsigns = {
     xSign,
     ySign,
     zSign,
+    FaSign,
 }
 
 
